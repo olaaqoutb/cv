@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 20%;
+    padding-top: 30px;
+}
+.head{
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    
+    position: relative;
+    left: 30%;
+    bottom:50px;
+}
+.container{
+    background-color: rgb(249, 236, 221);
+    width: 70%;
+   
+}
+#hh{
+    text-decoration: underline;
+    font-size: 40px;
+
+}
+.parent{
+    width: 600px;
+    padding: 30px;
+    
+}
